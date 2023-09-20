@@ -17,10 +17,51 @@ biggest important thing ever.
         
         
         how to earn more than 900 a month in Korea. 
+        how Can I prepare my retirement?
+        when will be my retirement day?
+
+        Can I work more than 1 year? 
+        Can I work as a mom?
+
+        I don't like reveal my face in front of many people. 
+        I don't want communicate with others. 
+
+        I just need alone time. 
+
+        
+
         or how to go a company such as intel, tesla, etc. in korea as usa part. not korean branches.
         how to build a business with small money.
 
         how to eat healthier than before. eat happily. 
+
+        how to rewrite code with python.
+        Robotics service can be realized in 1 year?
+
+        business. 
+        
+        3D computer for hardware things, moving 
+        not only moving but controlling the power of arm and legs as humanity. 
+
+        I need to speed up my all process. toooooo slow. 
+        need plan all life. with leisure and edu and love else. 
+
+        How to focus on my life. 
+        how can be family in old life. 
+
+        how to throw away nothing. 
+
+        
+        변리사 시험 기출문제 다 정리 방법. 
+        재택 근무 하는 회사로 이직하기. 
+        연락에 목 메지 않기.
+        
+
+        2025년 결혼하기 33살에 
+        2024년 5월에 결혼 준비 시작하기. 
+        미성으로 이사가기. 
+        보증금 채우고 12월에 이사가기. 아님 당산으로 
+        
         
 
 
