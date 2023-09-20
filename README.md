@@ -15,6 +15,19 @@ biggest important thing ever.
         how to earn more than 900 a month in Korea. 
         or how to go a company such as intel, tesla, etc. in korea as usa part. not korean branches.
         how to build a business with small money.
+
+        how to eat healthier than before. eat happily. 
+
+
+
+
+
+
+
+
+
+
+
         
 
 
@@ -22,6 +35,8 @@ biggest important thing ever.
 
 
 
+방울토마토 탕후루랑 마리네이드 먹기. 그리고 치킨도.
+토요일 일요일은 나가서 점심 구내식당으로
 
 
 
