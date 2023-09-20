@@ -5,19 +5,23 @@
 biggest important thing ever. 
 ## 1. interior game or interior business with AI AR environment.
         a) How to code a virtual reality game with voices. 
+        to create a virtual environments with code. 
+        c++ or python?
+
+        음식 식단 
         voice detect and recognization engine. 
         what is the engine?
-
+        
         I need to collect all questions not simple but complicated and effective things. 
         this is for shorten time consumption searching garbage things.
         
-
+        
         how to earn more than 900 a month in Korea. 
         or how to go a company such as intel, tesla, etc. in korea as usa part. not korean branches.
         how to build a business with small money.
 
         how to eat healthier than before. eat happily. 
-
+        
 
 
 
