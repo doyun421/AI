@@ -7,12 +7,40 @@
                 Baby Care Vision
                                 : Level 1. Baby's alert situation recorded and detect baby's alert sit and alarming this situations to mom or dad with mobile phone. 
                                                 a) Baby is overturned cause of rolling over season. --> suffocated to be died. 
-                                                b) Baby coverd by blackets or beggings --> suffocated.
+                                                b) Baby covered by blankets or beggings --> suffocated.
                                                 c) Baby rolled down under bed --> abrasion.
                                                 d) Baby crying cause hungry or poo. can detect poo is done or not by diaper size changes. 
-                                                e) movement of baby can 
+                                                e) movements of baby can represent whole emotion status. 
+
+                                                Baby sister camera in Korea. 
+                                                
+
+
+
+
+
+
+
+
+
+
+                                                try every possible conditions. 
+                                                
+                
                                   Level 2. Baby care voices to babies or Baby alarming voices for informing baby's situations. 
 
+
+                11:28 - 12:00 : 살짝 정리 -> 남자친구랑 톡과 빨래 ㅜㅜ
+                12:00 - 1:00 : 영화 또는 인스타 --> 남자친구랑 톡 및 디즈니
+        
+                1:00 - 3:00 : 낮잠
+                3:00 - 4:00 : 인스타
+                4:00 - 5:00 : 현타
+                
+                5:00 - 6:00 : 마리네이드 및 식사
+                6:00 - 7:00 : 조금 정리 
+                7:00 - 9:00 : 인스타 및 숙면
+                
                 
 
 
