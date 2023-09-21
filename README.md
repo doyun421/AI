@@ -1,4 +1,4 @@
-# Splendid Plans
+ # Splendid Plans
 
 
         Robotics Business 
@@ -12,7 +12,9 @@
                                                 d) Baby crying cause hungry or poo. can detect poo is done or not by diaper size changes. 
                                                 e) movements of baby can represent whole emotion status. 
 
-                                                Baby sister camera in Korea. 
+                                                Babysitter camera in Korea. 
+
+
                                                 
 
 
