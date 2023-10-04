@@ -176,7 +176,13 @@ animation I should need to view regulary for my spirit
 이사할 집 1년 계약 옮기기.
 
 토
+결혼 준비
+
+
 일
+이직 직장 인터뷰 일정 잡기.
+대학원 일정 잡기.
+
 
 
 11.20
