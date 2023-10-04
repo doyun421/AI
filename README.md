@@ -253,6 +253,21 @@ driving and going sauna/온천 6 hr * 2 / a yr
 laundry dryer running 3 hr * 3 / a week
 laundry washing 1.5 hr * 6 / a week
 
+travel or trip preparation before a month ago 7 hr / a yr
+travel or trip short trip 3 days / a yr
+travel or trip long trip 7 days / a yr
+
+parents' day a day
+children day a day
+birthday planning 4 hr * 7 (mom/dad, mom/dad in a law, me, su, sister) / a yr
+preparation gift for thangsgiving day and first day and christmas day parents' day 4 hr * 4 / a yr
+my mom/dad birthday 2 days / a yr
+su's dad/mom birthday 2 days / a yr
+
+
+
+
+
 
 
 
