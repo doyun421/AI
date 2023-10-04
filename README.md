@@ -228,10 +228,36 @@ sleeping
 12 hr as fixed 
 
 sports 
-riding 7 hr
-swimming 5 hr
-climbing 6 hr
-driving 6 hr
+riding 8 hr * 8 * 2 in spring/autumn
+swimming 8 hr * 4 * 4 in summer 
+climbing 8 hr * 4 * 1 in spring/autumn
+driving 8 hr * 4 * 2 in winter
+fitness 3 hr * 4 * 4 in winter
+
+
+edu
+online lecture
+book reading and writing
+book writing
+
+audio book
+seminar
+
+exhibition
+competition
+
+
+
+
+purchasing and preparation exhibition and museum
+preparation edu list
+
+
+
+
+
+
+
 
 family time
 
