@@ -193,10 +193,12 @@ animation I should need to view regulary for my spirit
 수익 재테크 시작하기. 
 계획 모두 정리해 두기.
 
-시간 관리하기.
 
 
-샤워 시간 줄이기. 10분으로 
+
+
+
+
 
 hourly scheduling
 
