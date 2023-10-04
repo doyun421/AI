@@ -228,6 +228,29 @@ sleeping
 12 hr as fixed 
 
 
+sports 
+riding 7 hr
+swimming 5 hr
+climbing 6 hr
+driving 6 hr
+
+family time
+
+with mom
+driving to go 지방 맛집
+eating out 2hr * 2 / a mon
+eating homade cook dinner 4 hr * 6/ a yr
+rest in a cafe 2hr * 2 /  a mon
+driving and going sauna 6 hr * 2 / a yr
+
+
+with dad
+driving to go 지방 맛집
+eating out 2hr * 2 / a mon
+eating homade cook dinner 4 hr * 6/ a yr
+rest in a cafe 2hr * 2 /  a mon
+driving and going sauna 6 hr * 2 / a yr
+
 
 
 
