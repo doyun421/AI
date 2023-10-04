@@ -227,7 +227,6 @@ sleeping
 
 12 hr as fixed 
 
-
 sports 
 riding 7 hr
 swimming 5 hr
@@ -241,21 +240,53 @@ driving to go 지방 맛집
 eating out 2hr * 2 / a mon
 eating homade cook dinner 4 hr * 6/ a yr
 rest in a cafe 2hr * 2 /  a mon
-driving and going sauna 6 hr * 2 / a yr
-
+driving and going sauna/온천 6 hr * 2 / a yr
 
 with dad
 driving to go 지방 맛집
 eating out 2hr * 2 / a mon
 eating homade cook dinner 4 hr * 6/ a yr
 rest in a cafe 2hr * 2 /  a mon
-driving and going sauna 6 hr * 2 / a yr
+driving and going sauna/온천 6 hr * 2 / a yr
+
+
+laundry dryer running 3 hr * 3 / a week
+laundry washing 1.5 hr * 6 / a week
 
 
 
 
 
 
+
+purchasing estate house 30 days and interior 5 days / 10 yr
+
+
+purchasing hygiene annually and organization 2 hr + 8 hr / a yr 
+purchasing clothes for winter 12 hr / 4 yr
+purchasing clothes for summer 12 hr / 4 yr
+purchasing clothes for autumn/spring 12 hr / 4 yr
+
+planning and purchasing machines 30 days / 4 yr
+planning and purchasing furnitures 30 days / 4 yr
+
+
+diagnosing my health 7 days / a yr
+diagnosing parents' health 14 days / a yr
+
+
+purchasing kitchen supplies 7 days / 10 yr
+purchasing kitchen annual groceries and organization 1 hr + 8 hr / a yr
+purchasing kitchen groceries and organization 4 hr / 3 mons
+purchasing groceries and organization 6 hr / a mon
+
+
+
+
+
+
+someday
+making clothes with fabric by myself.
 
 
 
