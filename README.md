@@ -189,6 +189,44 @@ animation I should need to view regulary for my spirit
 
 
 
+사업 시작하기.
+수익 재테크 시작하기. 
+계획 모두 정리해 두기.
+
+시간 관리하기.
+
+
+샤워 시간 줄이기. 10분으로 
+
+hourly scheduling
+
+shower under 15 mins
+drying 10 mins
+dress 10 mins
+breakfast 10 mins
+brushing teeth 7 mins
+= 52 mins
+
+making lunch 10 mins
+lunch 15 mins
+brushing teeth 7 mins
+washing dishes 10 mins
+= 42 mins
+
+making dinner 10 mins
+dinner 20 mins
+brushing teeth 7 mins
+washing dishes 10 mins
+= 47 mins
+
+sleeping time with e-book 1 hour
+= 1 hr
+
+sleeping
+= 8 hr
+
+12 hr as fixed 
+
 
 
 
