@@ -236,22 +236,25 @@ fitness 3 hr * 4 * 4 in winter
 
 
 edu
-online lecture
-book reading and writing
-book writing
+online lecture 1 hr / a day
+book reading and writing 30 mins / a day
+book writing 10 mins / a day
 
-audio book
-seminar
+audio book 30 mins / a day
+seminar 1 day * 4 / a yr
 
-exhibition
+exhibition 5 hr * 2 / a yr
 competition
 
 
 
 
-purchasing and preparation exhibition and museum
+purchasing and preparation exhibition and museum 4 yr / a yr
 preparation edu list
 
+movie list / movie at theater 4 hr * 1 * 12 / a yr
+ochestra / classic / ballet / musical planning  4 hr / a yr
+ochestra / classic / ballet / musical 1 day * 4 / a yr
 
 
 
