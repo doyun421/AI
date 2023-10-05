@@ -127,7 +127,7 @@ beef meat 0.05*2 *30*3 = 9 kg,
 일주일 치 식단 및 스케쥴 정리해 두기. 
 삼계탕, 중식, 훠궈, 치킨, 등등.
 갈비구이, 샤브샤브, 감자탕, 삼겹살.
-
+(
 
 
 
@@ -200,139 +200,7 @@ animation I should need to view regulary for my spirit
 
 
 
-hourly scheduling
 
-shower under 15 mins
-drying 10 mins
-dress 10 mins
-breakfast 10 mins
-brushing teeth 7 mins
-= 52 mins
-
-making lunch 10 mins
-lunch 15 mins
-brushing teeth 7 mins
-washing dishes 10 mins
-= 42 mins
-
-making dinner 10 mins
-dinner 20 mins
-brushing teeth 7 mins
-washing dishes 10 mins
-= 47 mins
-
-sleeping time with e-book 1 hour
-= 1 hr
-
-sleeping
-= 8 hr
-
-12 hr as fixed 
-
-sports 
-riding 8 hr * 8 * 2 in spring/autumn
-swimming 8 hr * 4 * 4 in summer 
-climbing 8 hr * 4 * 1 in spring/autumn
-driving 8 hr * 4 * 2 in winter
-fitness 3 hr * 4 * 4 in winter
-
-
-edu
-online lecture 1 hr / a day
-book reading and writing 30 mins / a day
-book writing 10 mins / a day
-
-audio book 30 mins / a day
-seminar 1 day * 4 / a yr
-
-exhibition 5 hr * 2 / a yr
-competition
-
-
-
-
-purchasing and preparation exhibition and museum 4 yr / a yr
-preparation edu list
-
-movie list / movie at theater 4 hr * 1 * 12 / a yr
-ochestra / classic / ballet / musical planning  4 hr / a yr
-ochestra / classic / ballet / musical 1 day * 4 / a yr
-
-
-
-
-
-
-
-family time
-
-with mom
-driving to go 지방 맛집
-eating out 2hr * 2 / a mon
-eating homade cook dinner 4 hr * 6/ a yr
-rest in a cafe 2hr * 2 /  a mon
-driving and going sauna/온천 6 hr * 2 / a yr
-
-with dad
-driving to go 지방 맛집
-eating out 2hr * 2 / a mon
-eating homade cook dinner 4 hr * 6/ a yr
-rest in a cafe 2hr * 2 /  a mon
-driving and going sauna/온천 6 hr * 2 / a yr
-
-
-laundry dryer running 3 hr * 3 / a week
-laundry washing 1.5 hr * 6 / a week
-
-travel or trip preparation before a month ago 7 hr / a yr
-travel or trip short trip 3 days / a yr
-travel or trip long trip 7 days / a yr
-
-parents' day a day
-children day a day
-birthday planning 4 hr * 7 (mom/dad, mom/dad in a law, me, su, sister) / a yr
-preparation gift for thangsgiving day and first day and christmas day parents' day 4 hr * 4 / a yr
-my mom/dad birthday 2 days / a yr
-su's dad/mom birthday 2 days / a yr
-
-
-
-
-
-
-
-
-
-
-
-purchasing estate house 30 days and interior 5 days / 10 yr
-
-
-purchasing hygiene annually and organization 2 hr + 8 hr / a yr 
-purchasing clothes for winter 12 hr / 4 yr
-purchasing clothes for summer 12 hr / 4 yr
-purchasing clothes for autumn/spring 12 hr / 4 yr
-
-planning and purchasing machines 30 days / 4 yr
-planning and purchasing furnitures 30 days / 4 yr
-
-
-diagnosing my health 7 days / a yr
-diagnosing parents' health 14 days / a yr
-
-
-purchasing kitchen supplies 7 days / 10 yr
-purchasing kitchen annual groceries and organization 1 hr + 8 hr / a yr
-purchasing kitchen groceries and organization 4 hr / 3 mons
-purchasing groceries and organization 6 hr / a mon
-
-
-
-
-
-
-someday
-making clothes with fabric by myself.
 
 
 
