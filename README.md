@@ -243,6 +243,16 @@ animation I should need to view regulary for my spirit
  ㅜㅜ
 
 
+할 수 닜을까
+너무 힘든데
+정말로 너무 많아 실패가
+힘들어
+
+실패 무덤에 쌓여서 못 나오고 있는 거 같아
+
+
+
+
 
 
 
