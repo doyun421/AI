@@ -343,7 +343,7 @@ seasoning
 
 
 
-
+https://www.acouplecooks.com/blackened-seasoning/
 
 
 
