@@ -305,6 +305,10 @@ animation I should need to view regulary for my spirit
 21. 
 
 
+잡곡밥도 굉장히 골고루 해두면 너무 풍족함. 
+잡곡밥/과일/찌개/나물반찬/간식 
+이렇게 살면 될 듯.
+아이도 이렇게 해줘야지!
 
 
 
