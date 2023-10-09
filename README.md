@@ -27,6 +27,8 @@
 
 
 
+
+
                                                 try every possible conditions. 
                                                 
                 
