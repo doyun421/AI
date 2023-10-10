@@ -166,3 +166,7 @@ https://www.acouplecooks.com/blackened-seasoning/
 200g*7 = 1400g
 200, 200, 400, 400, 200
 3개월 마다 구매: 고기, 쌀, 영양제, 김치 이렇게 구입하면 됨. 그리고 각종 건어물 반찬 
+
+
+
+
