@@ -298,6 +298,334 @@ https://www.acouplecooks.com/blackened-seasoning/
 
 
 이마트 과자 넘 맛남. 
+오늘의 목표
+10/10 화요일
+
+전체적인 개념에 대한 계획을 미리 세우는 게 훨씬 중요함. 
+키워드 위주로만
+난 내 마음대로 예측되고 실현해 내고 효과내고 그로 인해 행복 얻는 거 없으면 못 살아. 
+무조건 내 마음대로 할 수 있어야 해. 회사는 나에게 독과 같아. 
+
+처음부터 끝까지 내가 다 해냈으면 좋겠어.
+
+
+Robotics Field 
+
+Arm
+Head Brain
+Sensing
+Camera 
+
+AI applications
+Face Recognition Program
+
+I don't need to run face recognition
+I just need money for living in 2 yrs. 
+4800..
+
+
+earning rent fee at least 53만원 + 60 식비 / a month
+
+
+Arm handling 
+just write everything
+
+Arm handling finger handling 
+자유도 
+로봇 서비스 
+
+로봇 아이들 케어 어른들 케어
+이것저것 아이디어 마구잡이 쏟아내고 여기저기 아이디어 소스 찾고 찾아내고 적용하고 
+높은 효과 내는 거 주로 하고 그러다 보면 돈도 모이지 않을까. 
+나는 그저 살고 싶을 뿐인데.. 
+집도 없고 차도 없고.. 돈도 없어서 먹지도 못해 ㅠㅠ
+집도 평생은 거뜬히 살아도 되는 집 있었으면 좋겠다...
+
+
+
+
+로봇이 아니어도 돈 벌 방법은 많잖아. 
+그냥 돈이 그저 있었으면 좋겠고 밥도 늘 되어 있었으면 좋겠다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what is SLAM
+Visual SLAM
+Lidar SLAM
+
+Common challenges 
+1. Localization errors accumulate, causing substantial deviation from actual values
+2. Localization fails and the position on the map is lost
+3. High computational cost for image processing, point cloud processing, and optimization
+
+
+### Streaming and Reading Lidar Data
+
+Read point cloud
+Write point cloud
+Visualize and Store
+Sensor Model 
+
+examples
+
+
+### Lidar Preprocessing
+Preliminary Processing
+Block Processing
+Organize Point Cloud
+Find Points in Point Cloud
+Detect and Extract Features
+Register Point Clouds
+Convert Point Clouds
+Surface Mesh Workflow
+Storage
+
+
+### Visualize and Analyze Lidar Data
+
+
+### Lidar Semantic Segmentation
+Geometrical
+Deep Learning
+   Load Training Data
+   Augment and Preprocess Training Data 
+   Define Layers
+   Design Networks
+   Segment Point Cloud
+   Visualize Results
+   Evaluate Results
+
+
+
+### Object Detection on Lidar Point Clouds
+Geometric
+  Shape Fitting
+  Geometric Models
+
+Deep Learning
+  Load Training Data
+  Augment and Preprocess Training Data
+  Object Detection
+  Visualize Results
+  Evaluate Results
+
+
+
+### Lidar Labeling
+Create Labels and Lavel Definitions
+  Use Lidar Labels
+  Create Label Definitions
+  Load Ground Truth Sources
+  Sync External Image Viewer
+
+Automate Labeling
+  Action Flags
+  Validations
+  Algorithms
+
+### Lidar-Camera Calibration
+Detect Calibration Parameters
+Calibrate Lidar and Camera
+Fuse Sensor Data
+
+
+### Lidar Registration and Simultaneous Localization and Mapping (SLAM)
+Detect, Extract, and Match Features
+Register Point Clouds
+Estimate Pose
+Build Map
+Perform 2-D SLAM
+Visualize Results
+Sensor Model
+Storage
+
+### Lidar PGO 
+
+Functions
+expand all
+Detect, Extract, and Match Features
+Register Point Clouds
+Estimate Pose
+Build Map
+Perform 2-D SLAM
+Visualize Results
+Sensor Model
+Storage
+
+Components
+
+### Power Source
+### Action
+### Sensing
+
+
+### Manipulation
+
+### Locomotion
+### Environmental interaction and navigation
+### Human-robot interaction
+### Control
+### Research
+
+### Bionics and biomimetics
+### Education and training
+
+## Robotics News and Articles as recently
+
+Coding with paper
+Papers 
+
+real test with robots
+real business with robots 
+
+
+MS/PhD degree for robotics
+
+Earning Business List
+collecting AI app business 
+estimate profits of respectible apps. 
+test 2 apps as financial means
+
+
+AI App Business
+
+And 자문 구하기. 교수님 통해서
+
+english presentation or conversation practice 
+
+변리사 시험 1차 준비,
+관련 개념 모두 정리해 두기. 
+관련 기출 문제 모두 풀어보고 관련해서 정리해 두기. 
+
+풍진, A형간염, B형 간염 맞기. 
+
+
+# Goal of Life
+
+ ## 1. Creating and Provising Guard Robot to all weakness persons with cheap expense.
+ 
+ ## 2. Adding detailed info
+ Interior/repair expense calculation, need exact dates and plans, adding mom/dad, mom/dad in law 's hospital/health care plan. 
+ 
+       1) 
+       (2023.09.25) new company join
+              3. more than 200 persons,
+              2. data mathematically scientist
+              5. more than 54k$ 
+              4. must use english all day
+              4. must work with foreigners
+              6. must be remote work and full time
+              not moving a lot
+              7.not work after 6pm
+              1. not lot of useless work
+              only have good and nice persons
+              can work more than 3 years 
+
+              1. 쓸모 없는 일 잡다한 일 시키지 않고 전문적인 일만 시키는 곳
+              2. data scientist 관련 수학적인 일만 시키는 곳
+              3. 200명 이상의 직원
+              4. 영어 위주의 다양한 국적의 외국인들과 일하는 것
+              5. 5400만원 이상의 연봉
+              6. 재택근무와 정규직
+              7. 6시 이후 근무 금지
+
+
+              a. 잡플래닛 기업 검색 후기 괜찮 top 5 순서 작성
+              b. 잡플래닛 후기 작성
+              c. 회사 채용공고 나만의 우선순위
+              d. 교집합 찾기 
+              e. 스케쥴링 물리적으로 가능, 심리적으로는 5시까지만 정리하고 싶음. 그 외에는 공부하고 싶음. 
+              f. 외국계 기업 관련 커뮤니티 정보 및 점수 보고 우선순위 나열!
+          
+
+
+
+              1. 버킷플레이스 3.9
+              2. 한화비전 3.5
+
+9/25 : 
+10/25 : 
+11/25 : 
+
+
+
+
+foward during 10 years. 
+31 - 41: what I am, skin care strictly, health care with radium, wealth, house, family, job, business.
+          
+        several business and several investment 
+        maching learning robotics and economy
+        
+
+
+
+
+
+              
+              
+       (2023.09.28-09.30) thanksgiving day
+       gifts 
+       
+       (2023.10.22) moved to a new house around 당산
+       
+       (2025.05.05) wedding 
+
+
+ ## 3. steps for earning.
+       a. 30-32 : Nvidia as 20000,    
+                  Youtube Shopping Mall as Uniqlo for only weakness person warmer only for winter, 
+                  Smart Store with Scrubbers as 10, 100, 1000, 10000
+                  Novel for Diet for Diabetes, Disk patients as 0
+                  Business for planner app as 10, 100, 1000
+                  Business for Robotics Services as 10, 100
+                  
+
+
+       b. 32-34 : 
+       c. 34-40 : 
+       d. 40-50 : 
+## 4. plan for leisure and appointment and celebration dates. 
+
+    I just wanna peace. need be planned all the time. 
+    communicating with lots of people like through novel. 
+    Be lonely for living as honesty. 
+
+
+
+
+    오늘 할 일 
+    칼같이 정리하기.
+    월 350 이상 주는 곳으로 가기. 
+    연봉 5000 이상, 
+    사람 500명 이상 근무 하는 곳.
+    영어만 사용하는 곳으로 한국인 없는 곳으로 지원하기. 
+    
+    우울증이랑 과도한 불안증세 및 고통 인간관계 개선하고 가기. 
+    피할 사람 꼭 리스트 적어서 피하기. 
+
+    못 피하면 적어도 대응 잘하기. 상처 안 남게 치유하기 자가 치유.
+    
+
+
+    운동 및 산책 해서 지구력 키우기. 
+    산책은 넷마블 저녁 8시로
+    
+
+
+    
+       
 
 
 
