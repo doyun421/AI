@@ -29,10 +29,17 @@ Robotics Algorithms Understanding
   a. Eletric motors (Most electric motors operate through the interaction between the motor's magnetic field and electric current in a wire winding to generate force in the form of torque applied on the motor's shaft. )
   b. Linear actuators 
   c. Series elastic actuators : motor - Gearbox -.-.-Series Elasticity - Load
-  d. air muscles
+  d. air muscles pneumatic artificial muscles (pneumatic 공기가 들어있는) 
+      relaxed and contraction repeated. 
   e. wire muscles
+Either run current through or place these wires in hot water, and they can contract by 5%, and then expand to its full length again once cooled down, or when disconnected from the power source.
+Made up of equal parts nickel and titanium and developed by the United States Naval Ordnance Lab, (where the name Nitinol comes from). Because it is 50% titanium, this wire is much stronger than your average strand of wire. The reason Nitinol is able to expand and contract is because of its combination of crystal structures from the nickel and titanium metals. They react differently in high and low temperatures, making the wire soft and flexible when cool, yet firm and stiff when heated.
+The explanation for these structural changes lies at the atomic level. The shape changes are the result of the rearrangement of the crystal structures in the solid. When at room temperature, Nitinol can be bent into various shapes. Apply heat or electrical current and the atoms to arrange themselves into the most compact and tight fitted pattern possible resulting in the contraction of shape. The material has been deemed shape-memory because its crystal transformation is fully reversible. Once the temperature is lowered, it returns to, or remembers, its original shape. This cycle can be repeated millions of times.
+
   f. electroactive polymers
-  g. Piezo motors
+      polymer: is a substance or material consisting of very large molecules called macromolecules, composed of many repeating subunits
+ is a polymer that exhibits a change in size or shape when stimulated by an electric field. The most common applications of this type of material are in actuators[1] and sensors.[2][3] A typical characteristic property of an EAP is that they will undergo a large amount of deformation while sustaining large forces.
+g. Piezo motors
   h. Elastic nanotubes
 
 3. Sensing
