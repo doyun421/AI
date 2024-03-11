@@ -33,8 +33,34 @@
 
 총 308만원
 
-아빠 기대 수명 86 2046년도 (23년)
-엄마 기대 수명 86 2046년도 (23년)
+아빠 기대 수명 96 2054년도 (30년)
+엄마 기대 수명 96 2054년도 (30년)
+
+
+
+https://www.linkedin.com/jobs/collections/top-applicant/?currentJobId=3851219087&eBP=NotAvailableFromMidTier&refId=7O%2BfSM%2BUTwm6gxgRxMzY%2Bw%3D%3D&trackingId=%2FDX8cP0Gl9Eo7mVwtXJJ7w%3D%3D
+
+![image](https://github.com/doyun421/Plan/assets/73266189/39350b52-1014-48f5-b133-3155ab8a0e73)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
