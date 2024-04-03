@@ -30,7 +30,7 @@
       						versius trainer machine - simulator
 
 		5. [Stryker]([url](https://www.stryker.com/kr/en/portfolios/neurotechnology-spine/neurovascular/angioplasty-and-stenting.html))
-  surgical associate tools
+				surgical associate tools
 				Infrastructure and room design
 					Bed frames
 					Emergency patient transport
