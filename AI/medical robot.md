@@ -18,17 +18,53 @@
 					SkinCare
 
 	 				
-		3. [Medrobotics]([url](https://www.medrobots.pt/copy-of-senior-robotics-engineer))
+		3. [Medrobotics]([url](https://www.medrobots.pt/copy-of-senior-robotics-engineer)) (USA, Portugal)
   
+												UV-C robots (Automation moving)
+												robot Veida(friendly care)
+												  
+		4. [CMR Surgical]([url](https://cmrsurgical.com/))
+
+						Versius - robot arm, Surgeon Control
+						The uniquely small, modular & portable surgical robot
+      						versius trainer machine - simulator
+
+		5. [Stryker]([url](https://www.stryker.com/kr/en/portfolios/neurotechnology-spine/neurovascular/angioplasty-and-stenting.html))
+  surgical associate tools
+				Infrastructure and room design
+					Bed frames
+					Emergency patient transport
+					Personal protection equipment
+
+				power tool 
+					Neuro and Spine
+					Bone Mill
+					Maestro Air
+					Maestro Air
+					SONOPET
+					Spetzler-Malis
+     
+				Small Bone Power tools
+					RemB
+     
+				Reconstructive surgery
+					HydroSet
+					Orthopedic disposables
+
+				Ortho-paedics(정형외과)
+					Joint Replacement
+					Foot and ankle
+
+				NeuroTechnology
+					Angioplasty and stenting
+
+
+		6. Verb Surgical (USA)
   
-  UV-C robots (Automation moving)
-robot Veida(friendly care)
+		7. Medtronic (USA/Korea)
+  			
+		8. [Diligent Robotics](https://www.diligentrobots.com/)
   
-		4. CMR Surgical
-		5. Stryker
-		6. Verb Surgical
-		7. Medtronic
-		8. Diligent Robotics
 		9. Corindus Vascular Robotics
 		10. Mazor Robotics
 		11. Myomo
