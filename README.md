@@ -19,36 +19,6 @@
                                   Level 2. Baby care voices to babies or Baby alarming voices for informing baby's situations. 
 
 
-우선 순위
-1. 울트라 히트텍 바지 2개씩, 12
-2. 에시앙 1개씩 20
-3. 양말 긴 거 두꺼운 거 10개씩, 6
-4. 전기장판 40
-4. 건강 검진 올해 아빠 100
-5. 건강 검진 내년 엄마 100
-6. 고어텍스 신발 각 1화, 30
-엄마 아빠 일주일 한번 씩은 만나뵙기.
-그리고 아빠 먹을 거 잘 챙겨드리기. 단백질 위주로
-
-
-총 308만원
-
-아빠 기대 수명 96 2054년도 (30년)
-엄마 기대 수명 96 2054년도 (30년)
-
-
-
-https://www.linkedin.com/jobs/collections/top-applicant/?currentJobId=3851219087&eBP=NotAvailableFromMidTier&refId=7O%2BfSM%2BUTwm6gxgRxMzY%2Bw%3D%3D&trackingId=%2FDX8cP0Gl9Eo7mVwtXJJ7w%3D%3D
-
-![image](https://github.com/doyun421/Plan/assets/73266189/39350b52-1014-48f5-b133-3155ab8a0e73)
-
-
-
-
-
-
-
-
 
 
 
