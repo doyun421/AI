@@ -65,7 +65,8 @@
   			
 		8. [Diligent Robotics](https://www.diligentrobots.com/)
   
-		9. Corindus Vascular Robotics
+		9. [Corindus Vascular Robotics]([url](https://www.siemens-healthineers.com/endovascular-robotics))
+  
 		10. Mazor Robotics
 		11. Myomo
 		12. Neocis
