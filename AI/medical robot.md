@@ -4,7 +4,26 @@
 ### Companies
 		1. Intuitive Surgical (USA)
 		2. Hansen Medical (California)
-		3. Medrobotics 
+  					Facial Implants
+       					Chin Implants
+	    				Maral Implants
+					Nasal Implants
+					Calving Blocks
+					Pectoralis Implants
+					Calf Implants
+					Gluteal Implant
+					Custom Implant
+					
+     					Scarfade
+					SkinCare
+
+	 				
+		3. [Medrobotics]([url](https://www.medrobots.pt/copy-of-senior-robotics-engineer))
+  
+  
+  UV-C robots (Automation moving)
+robot Veida(friendly care)
+  
 		4. CMR Surgical
 		5. Stryker
 		6. Verb Surgical
