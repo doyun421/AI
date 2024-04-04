@@ -67,21 +67,46 @@
   
 		9. [Corindus Vascular Robotics]([url](https://www.siemens-healthineers.com/endovascular-robotics))
   
-		10. Mazor Robotics
-		11. Myomo
-		12. Neocis
-		13. ReWalk Robotics
-		14. Accuray
+		10. [Mazor Robotics]([url](https://www.medtronic.com/us-en/healthcare-professionals/products/spinal-orthopaedic/spine-robotics/mazor-x-stealth-edition.html))
+  
+		11. [Myomo]([url](https://myomo.com/))
+					The MyoPro Brace for Stroke Survivor's Paralyzed Arm
+					Stroke
+					Brachial Plexus Injury (BPI)
+					Brain Injury (BI)
+					Spinal Cord Injury (SCI)
+					Other Neurological Disease
+		12. [Neocis]([url](https://www.neocis.com/))
+					Robot-assisted surgery
+					Yomi Robot
+  
+		13. [ReWalk Robotics]([url](https://golifeward.com/))
+  
+					ReWalk Personal Exoskeleton
+					ReStore Exo-Suit
+
+		14. [Accuray]([url](https://www.accuray.com/))
+					Precise robotic radiation treatment as individual as every patient.
+					Fast helical imaging and treatment delivery for superior patient outcomes.
+
 		15. AiM Medical Robotics
-		16. Intuition Robotics
-		17. Auris Health, Inc.
+		16. [Intuition Robotics]([url](https://www.intuitionrobotics.com/)) (Israel)
+  
+		17. Auris Health, Inc. (Johnson & Johnson)
 		18. EndoQuest Robotics
-		19. Energid Technologies
-		20. Globus Medical
-		21. Levita Magnetics
-		22. Zimmer Biomet
-		23. Asensus Surgical
-		24. Barrett Technology
+		19. Energid Technologies(integrated with [Universal Robots]([url](https://www.universal-robots.com/ko/)))
+					  industrial robot
+		20. [Globus Medical]([url](https://www.globusmedical.com/musculoskeletal-solutions/spine-technologies/))
+					  lots and lots
+  
+		21. [Levita Magnetics]([url](https://www.levita.com/))
+					  surgical arm
+		22. [Zimmer Biomet]([url](https://www.zimmerbiomet.com/en))
+					  surgical arm
+		23. [Asensus Surgical]([url](https://www.asensus.com/))
+					  surgical arm
+		24. [Barrett Technology]([url](https://advanced.barrett.com/))
+					  industrial entertainment robot
 
 
 
