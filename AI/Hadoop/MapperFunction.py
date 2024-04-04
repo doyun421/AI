@@ -30,3 +30,9 @@ for line in sys.stdin:
 New York   2024-04-01 08:00:00,Los Angeles,2789.5,65.2,Sunny,Light traffic
 San Francisco   2024-04-02 10:30:00,Seattle,808.2,55.7,Rainy,Moderate traffic
 Chicago   2024-04-03 12:45:00,Miami,1200.7,70.3,Cloudy,Heavy traffic
+
+Importing Modules
+Reading Input Data
+Data Preprocessing
+Extracting Information
+Emitting Key-Value Pairs
