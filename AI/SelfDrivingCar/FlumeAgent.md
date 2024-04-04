@@ -30,6 +30,6 @@ This centralized data store serves as a destination or sink for the data collect
 
 In this scenario:
 
-***Various Sources***: The sensors in each vehicle represent the various sources of data.
-***Centralized Data Store***: This is the centralized repository where all the data from the fleet of vehicles is aggregated and stored.
-***Apache Flume***: Acts as the middleware or data ingestion system responsible for collecting data from the sensors in each vehicle and transmitting it to the centralized data store.
+### ***Various Sources***: The sensors in each vehicle represent the various sources of data.
+### ***Centralized Data Store***: This is the centralized repository where all the data from the fleet of vehicles is aggregated and stored.
+### ***Apache Flume***: Acts as the middleware or data ingestion system responsible for collecting data from the sensors in each vehicle and transmitting it to the centralized data store.
