@@ -16,19 +16,14 @@
 					
      					Scarfade
 					SkinCare
-
 	 				
-		3. [Medrobotics]([url](https://www.medrobots.pt/copy-of-senior-robotics-engineer)) (USA, Portugal)
-  
+		3. [Medrobotics]([url](https://www.medrobots.pt/copy-of-senior-robotics-engineer)) (USA, Portugal) 
 												UV-C robots (Automation moving)
-												robot Veida(friendly care)
-												  
+												robot Veida(friendly care)											  
 		4. [CMR Surgical]([url](https://cmrsurgical.com/))
-
 						Versius - robot arm, Surgeon Control
 						The uniquely small, modular & portable surgical robot
       						versius trainer machine - simulator
-
 		5. [Stryker]([url](https://www.stryker.com/kr/en/portfolios/neurotechnology-spine/neurovascular/angioplasty-and-stenting.html))
 				surgical associate tools
 				Infrastructure and room design
@@ -98,7 +93,6 @@
 					  industrial robot
 		20. [Globus Medical]([url](https://www.globusmedical.com/musculoskeletal-solutions/spine-technologies/))
 					  lots and lots
-  
 		21. [Levita Magnetics]([url](https://www.levita.com/))
 					  surgical arm
 		22. [Zimmer Biomet]([url](https://www.zimmerbiomet.com/en))
