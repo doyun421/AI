@@ -20,6 +20,9 @@ Self Driving Car
                Q9. what can improve accuracy of detecting people and obstacle. how to 대응 against sudden accidents. real contest of this. kaggle. 
                why data scientist needed. how to earn in self driving car. 
                6000만원 of car cost. options of AI mode list. 
+               Q10. no questions just drawing your future. 
+
+               
 
                변리사. 오답노트 작성. 암기할 부분 표시 후 암기. 
                영어 회화. 오답노트 작성. 암기할 부분 표시 후 암기. 
