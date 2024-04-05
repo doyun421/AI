@@ -22,6 +22,9 @@ Self Driving Car
                6000만원 of car cost. options of AI mode list. 
                Q10. no questions just drawing your future. 
 
+               마당이 있는 평창동 단독주택에 아빠랑 같이 살고, 엄마는 이웃집 단독주택 사드리기.
+               자주 놀러가서 바베큐 파티하기. 
+               
                
 
                변리사. 오답노트 작성. 암기할 부분 표시 후 암기. 
