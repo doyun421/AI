@@ -24,7 +24,7 @@ Q1.
 a subsidiary 
 Speed Limits:
 Self-driving cars typically "adhere to"
-posted speed limits 
+posted speed limits
 to ensure "compliance" with local traffic laws and "regulations". 
 Waymo's autonomous driving technology would include algorithms 
 to detect speed limit signs and adjust the vehicle's speed "accordingly".
