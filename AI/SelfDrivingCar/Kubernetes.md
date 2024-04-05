@@ -2,7 +2,7 @@
 Self Driving Car
 
                Q1. How to set speed in local or high way. 
-               Q2. Where camera should be set, which camera is more important. what's orders do? 
+               Q2. If values detected from different cameras conflict, which can be proper?
                Q3. Self Driving Car instead of Car, How about stroller for baby? Self Driving Baby Stroller. 
                Q4. Data Types 
                                 camera : image where can many data stored as real time, which process should be done when driving or not driving.
