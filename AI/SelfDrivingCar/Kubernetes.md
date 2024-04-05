@@ -17,7 +17,13 @@ Self Driving Car
                Q6. what is container and why used?
                Q7. which tool needed for self driving car
                Q8. wifi or other network how can I choose and in seoul high way?
-               Q9. 
+               Q9. what can improve accuracy of detecting people and obstacle. how to 대응 against sudden accidents. real contest of this. kaggle. 
+               why data scientist needed. how to earn in self driving car. 
+               6000만원 of car cost. options of AI mode list. 
+
+               변리사. 오답노트 작성. 암기할 부분 표시 후 암기. 
+               영어 회화. 오답노트 작성. 암기할 부분 표시 후 암기. 
+               
                
                    
 Q1.
