@@ -107,6 +107,3 @@
 
 
 
-Expectation of
-
-business and career and land/real estates/coins/etherium/stocks, else. Life style 
